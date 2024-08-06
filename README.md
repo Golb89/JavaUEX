@@ -106,6 +106,5 @@ Ventana de información:
 
 ### Licencia.
 
-**GNU GENERAL PUBLIC LICENSE** Version 3, 29 June 2007. Ver el archivo LICENSE.
+**GNU GENERAL PUBLIC LICENSE** Version 3, 29 June 2023.
 
-Trogol.
